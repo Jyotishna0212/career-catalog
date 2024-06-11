@@ -22,7 +22,7 @@ Get the code
  
 Install required dependencies
 
-<pre>yarn install</pre>
+<pre>npm install</pre>
 
 
 Start the server

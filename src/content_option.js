@@ -27,7 +27,7 @@ const worktimeline = [{
     {
         jobtitle: "Front Developer Intern",
         where: "Drift Developers ",
-        date: "July 2022 - December 2024",
+        date: "July 2022 - December 2022",
     },
     
 ];
